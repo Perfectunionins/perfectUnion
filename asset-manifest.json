@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/perfectUnion/static/css/main.514bf0d3.css",
-    "main.js": "/perfectUnion/static/js/main.9e836213.js",
-    "static/js/787.eb2b001a.chunk.js": "/perfectUnion/static/js/787.eb2b001a.chunk.js",
+    "main.css": "/perfectUnion/static/css/main.666593d2.css",
+    "main.js": "/perfectUnion/static/js/main.c13d5121.js",
+    "static/js/787.552db277.chunk.js": "/perfectUnion/static/js/787.552db277.chunk.js",
     "static/media/AboutUs.png": "/perfectUnion/static/media/AboutUs.15e2ee118eb70236e121.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/perfectUnion/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/slide-01.jpeg": "/perfectUnion/static/media/slide-01.ff596300ec53788b424e.jpeg",
@@ -14,12 +14,12 @@
     "static/media/ourProducts.jpeg": "/perfectUnion/static/media/ourProducts.290db5298d1167a836e3.jpeg",
     "static/media/logo.jpeg": "/perfectUnion/static/media/logo.347bd550c40be0de70ee.jpeg",
     "index.html": "/perfectUnion/index.html",
-    "main.514bf0d3.css.map": "/perfectUnion/static/css/main.514bf0d3.css.map",
-    "main.9e836213.js.map": "/perfectUnion/static/js/main.9e836213.js.map",
-    "787.eb2b001a.chunk.js.map": "/perfectUnion/static/js/787.eb2b001a.chunk.js.map"
+    "main.666593d2.css.map": "/perfectUnion/static/css/main.666593d2.css.map",
+    "main.c13d5121.js.map": "/perfectUnion/static/js/main.c13d5121.js.map",
+    "787.552db277.chunk.js.map": "/perfectUnion/static/js/787.552db277.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.514bf0d3.css",
-    "static/js/main.9e836213.js"
+    "static/css/main.666593d2.css",
+    "static/js/main.c13d5121.js"
   ]
 }
