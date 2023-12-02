@@ -5,3 +5,7 @@
 .contact-info-font{
     font-size: 20px;
 }
+
+.navbar-nav .nav-link:hover {
+    color: red !important;
+}

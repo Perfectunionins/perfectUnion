@@ -12,7 +12,7 @@ function App() {
 
     return (
         <div className="container App" style={{width: "1300px"}}>
-            <Header setPage={setPage}/>
+            <Header setPage={setPage} page={page}/>
             {page === "Home" && <Home setPage={setPage}/>}
             {page === "AboutUs" && <AboutUs/>}
             {page === "OurProducts" && <OurProducts/>}
