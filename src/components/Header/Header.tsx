@@ -64,7 +64,7 @@ export const Header: FC<HeaderProps> = (props) => {
                   <button
                       className={`nav-link btn btn-link ${selectedPage === 'OurProducts' ? 'text-danger' : 'text-dark'}`}
                       style={{fontWeight: "bold"}}
-                      onClick={() => setPage("OurProducts")}>Our products
+                      onClick={() => setPage("OurProducts")}>Our Products
                   </button>
                 </li>
                 <li className="nav-item">
