@@ -27,7 +27,7 @@ const Footer: FC<FooterProps> = (props) => {
                     </div>
                 </div>
                 <div>
-                    <p>@ 2023 perfect union insurance agency LLC </p>
+                    <p>@ 2023 Perfect Union Insurance Agency LLC </p>
                 </div>
 
             </div>
@@ -37,7 +37,7 @@ const Footer: FC<FooterProps> = (props) => {
                     <div>
                         821 Milbrodt Drive <br/>
                         Whiteland,IN <br/>
-                        46148 <br/><br/>
+                        46184 <br/><br/>
                     </div>
                     <div>
                         Phone: (463) 245-6061 <br/>
